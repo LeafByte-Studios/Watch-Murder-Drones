@@ -12,48 +12,46 @@
 
 ---
 
-## 📚 **Table of Contents**
-- [Episodes](#episodes)
-- [Trailers & Teasers](#trailers--teasers)
-- [Promo Videos](#promo-videos)
-- [Music Videos](#music-videos)
-- [Credits](#credits)
-
----
-
 # 📺 **Episodes**
-(Automatically following your repo structure)
-
-- Episode 1  
-- Episode 2  
-- Episode 3  
-- Episode 4  
-- Episode 5  
-- Episode 6  
+- Episode 1 (PILOT)
+- Episode 2 (HeartBeat) 
+- Episode 3 (The Promening)
+- Episode 4 (Cabin Fever)
+- Episode 5 (Home)
+- Episode 6 (Dead End)
+- Episode 7 (Mass Destruction)
+- Episode 8 (Absolute End)
 
 ---
 
 # 🎞️ **Trailers & Teasers**
-- Trailer 1  
-- Trailer 2  
-- Teaser Clips  
-- Official Sneak Peeks  
+- Murder Drones: (Teaser)
+- Murder Drones [Official Trailer]
+- MURDER DRONES Season 1 Teaser
+- MURDER DRONES Season 1 (TRAILER)
+- CabinFever_13-13-3071.mov
+- Did you miss me?
+- DON'T LOOK
+- Murder Drones - The Beginning Of the End
+- FINAL DESTINATION
+- MURDER DRONES Series Finale [TRAILER]
 
 ---
 
 # 🎥 **Promo Videos**
-- Promo 1  
-- Promo 2  
-- Behind-the-scenes promo  
-- Channel promos  
+- N wakes up as a Marketable Figurine
+- N Calls Everyone
+- N Takes His Final Form
+- Murder Drones Training Video
+- Murder Drones Alternate Universe
+- Murder Drones but Wholesome
+- N and Uzi's Camping Date
 
 ---
 
 # 🎧 **Music Videos**
-- Song 1  
-- Song 2  
-- Music remixes  
-- OST pieces  
+- Fight Till I'm Good Enough
+- FOREVER: The Full Version
 
 ---
 
