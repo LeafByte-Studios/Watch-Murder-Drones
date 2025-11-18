@@ -1,0 +1,139 @@
+.Index {
+    background-image: url('Image/Index.png');
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    background-repeat: repeat;
+    background-size: auto;
+    background-color: white;
+    margin: 0;
+}
+
+header {
+    background-color: White;
+    text-align: center;
+    vertical-align: top;
+    border-bottom: 4px solid rgb(204, 204, 204);
+}
+
+p {
+    font-size: 18px;
+    color: rgb(204, 204, 204);
+    font-weight: bold;
+    text-align: center;
+}
+
+.Button {
+    width: 300px;
+    height: 30px;
+    margin: 12px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(93, 139, 178);
+    background-color: white;
+    color: rgb(93, 139, 178);
+}
+
+.Button:hover {
+    cursor: pointer;
+}
+
+.LOGO {
+    margin: 15px;
+}
+
+.Box {
+    border-radius: 10px;
+    background-color: white;
+    outline: 3px solid #CCC;
+    text-align: center;
+    margin: 25px;
+}
+
+.Box_Index {
+    border-radius: 10px;
+    background-color: white;
+    outline: 3px solid #CCC;
+    text-align: center;
+    width: 400px;
+    margin: 25px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.CENTER {
+    text-align: center;
+}
+
+hr {
+    border: 2px solid  rgb(204, 204, 204);
+    border-width: 2px; 
+    margin: 0px;
+    width: 99%;
+}
+
+.Title_Image {
+    width: 350px;
+    margin: 20px;
+}
+
+.Dont,
+.PILOT {
+    width: 200px;
+    margin: 20px;    
+}
+
+.End,
+.HeartBeat {
+    width: 250px;
+    margin: 20px;    
+}
+
+.MASS,
+.ABSOLUTE,
+.PROMENING {
+    width: 450px;
+    margin: 20px;    
+}
+
+.FEVER {
+    width: 350px;
+    margin: 20px;    
+}
+
+.Home {
+    width: 175px;
+    margin: 20px;    
+    margin-right: 0;
+}
+
+.E {
+    width: 27px;
+    margin: 20px;    
+    margin-left: 3px;
+    margin-bottom: 21px;
+}
+
+.Video {
+    margin: 25px;
+}
+
+.Teaser {
+    width: 550px;
+    margin: 20px;    
+}
+
+.Trailer {
+    width: 650px;
+    margin: 20px;    
+}
+
+.look {
+    width: 150px;
+    margin: 20px;  
+}
+
+.HELLO {
+    width: 800px;
+    margin: 20px;     
+}
+
