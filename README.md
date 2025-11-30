@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### **▶️ [Click Here to Visit the Website](https://leafbyte-studios.github.io/Watch-Murder-Drones)**
+### **[Click Here to Visit the Website](https://leafbyte-studios.github.io/Watch-Murder-Drones)**
 
 </div>
 
